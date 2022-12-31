@@ -1,0 +1,19 @@
+.root:nth-child(1) {
+  color: #4683f3;
+}
+
+.root:nth-child(2) {
+  color: #fe9085;
+}
+
+.root:nth-child(3) {
+  color: #4582f4;
+}
+
+.root:nth-child(4) {
+  color: #fba904;
+}
+
+.root:nth-child(5) {
+  color: #2dc09e;
+}

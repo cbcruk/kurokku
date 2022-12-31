@@ -1,0 +1,10 @@
+.day {
+  @apply font-bold text-2xl;
+  letter-spacing: 2px;
+  color: hsl(219deg 88% 61%);
+}
+
+.time {
+  @apply flex font-bold;
+  font-size: 200px;
+}
